@@ -1,0 +1,35 @@
+{
+  "name": "bcuillie",
+  "version": "1.0.0",
+  "description": "Afin de jauger tes qualités techniques, nous te proposons un petit test :\r Tu vas avoir **5 jours** (jusqu'à vendredi) pour coder une API basique en Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Ksicart/bcuillie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Ksicart/bcuillie/issues"
+  },
+  "homepage": "https://gitlab.com/Ksicart/bcuillie#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-node5": "^12.0.1",
+    "babel-register": "^6.26.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "faker": "^4.1.0",
+    "graphql": "^14.5.8",
+    "mysql2": "^2.1.0",
+    "node": "^13.6.0",
+    "sequelize": "^5.21.3"
+  }
+}
